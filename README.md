@@ -1,6 +1,6 @@
-# Murphy_## About Me  
+# Murphy_rep
 
-👋 Hi, I'm [Your Name]! I'm a passionate software developer with a strong foundation in **HTML, CSS, Java, and Python**. I enjoy building dynamic and interactive applications and continuously learning new technologies.  
+👋 Hi, I'm Himanshu! I'm a passionate software developer with a strong foundation in **HTML, CSS, Java, and Python**. I enjoy building dynamic and interactive applications and continuously learning new technologies.  
 
 ### 🔧 Skills & Technologies  
 - **Frontend**: HTML, CSS   
